@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589838916 source:c:\users\demi\desktop\primerparcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589841595 source:c:\users\demi\desktop\promerparcialprogramacion3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
